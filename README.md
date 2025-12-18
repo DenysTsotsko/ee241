@@ -15,6 +15,6 @@ This repository contains lab assignments and reports for the EE 241 course.
   - Analysis of the C. Elegans neural network (`dynworm` package).
   - Includes simulation and report templates.
 
-# Don't forget to star this repo, in case you use my lab as a reference 
+### Don't forget to star this repo, in case you use my lab as a reference 
 with ❤️ 
 Denys 
